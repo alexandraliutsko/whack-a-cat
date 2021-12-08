@@ -1,0 +1,11 @@
+{
+  "name": "whack-a-cat",
+  "version": "1.0.0",
+  "description": "Funny browser game on JavaScript.",
+  "main": "assets/js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandra <nekoguard@protonmail.com>",
+  "license": "ISC"
+}
