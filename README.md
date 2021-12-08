@@ -1,2 +1,2 @@
-# whack a cat
+# Whack a cat!
 Funny browser game on JavaScript.
