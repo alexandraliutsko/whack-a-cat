@@ -4,12 +4,12 @@ const levels = {
     1: {
         speed: randomTime(800, 900),
         score: 22,
-        time: 20000,
+        time: 23000,
     },
     2: {
         speed: randomTime(700, 800),
         score: 20,
-        time: 18000,
+        time: 19000,
     },
     3: {
         speed: randomTime(600, 700),
@@ -18,12 +18,12 @@ const levels = {
     },
     4: {
         speed: randomTime(500, 600),
-        score: 15,
+        score: 16,
         time: 13000,
     },
     5: {
         speed: randomTime(450, 500),
-        score: 7,
+        score: 10,
         time: 11000,
     },
 }
