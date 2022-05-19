@@ -1,6 +1,6 @@
 # Whack a cat!
 #### Funny browser game on JavaScript.
-[Tap here to test it!](https://nekoguard.github.io/whack-a-cat/)
+[Tap here to test it!](https://alexandraliutsko.github.io/whack-a-cat/)
 
 * It's a simple game, where you need to catch some amount of cats in some time.
 * It has 5 levels, which are replaced in turn. They differ in the number of cats you need to catch, time and speed with which the cats jump out.
