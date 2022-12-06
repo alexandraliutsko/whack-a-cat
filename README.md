@@ -8,5 +8,3 @@
 * But if the page reloads at any time during the game, you can continue from the level you left off.
 
 ![screenshot](https://user-images.githubusercontent.com/77226972/145376049-4c12c7c1-5622-4cbf-85b5-fd228580c9e7.png)
-
-### Have fun!
