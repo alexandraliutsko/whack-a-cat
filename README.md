@@ -1,3 +1,5 @@
+Note: the game is currently being rewritten using React, the initial code is available in initial-js-version branch
+
 # Whack a cat!
 #### Funny browser game on JavaScript.
 [Tap here to test it!](https://alexandraliutsko.github.io/whack-a-cat/)
